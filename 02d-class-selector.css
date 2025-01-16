@@ -1,0 +1,5 @@
+/* Change the background color of elements with a specific class.*/
+
+.highlight {
+    background-color: aquamarine;
+}
