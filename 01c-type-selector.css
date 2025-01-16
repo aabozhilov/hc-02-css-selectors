@@ -1,0 +1,16 @@
+/* Style different HTML elements (h1, p, div) using type selectors. */
+
+h1 {
+    color: red;
+    text-align: center;
+}
+
+p {
+    color: green;
+    text-transform: capitalize;
+}
+
+div {
+    color: blue;
+    text-indent: 40px;
+}
