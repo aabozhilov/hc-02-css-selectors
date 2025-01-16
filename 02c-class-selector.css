@@ -1,0 +1,5 @@
+/* Apply a common style to multiple elements using a class selector. */
+.common-style {
+    color: darkmagenta;
+    text-indent: 20px;
+}
