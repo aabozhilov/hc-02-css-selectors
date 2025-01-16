@@ -1,0 +1,13 @@
+/* Create two divs, one with a width set in pixels and the other in percentages. */
+
+.pixel-width {
+    /* Set width to 300px */
+    width: 300px;
+    background-color: aqua;
+}
+
+.percentage-width {
+    /* Set width to 50% */
+    width: 50%;
+    background-color: bisque;
+}
