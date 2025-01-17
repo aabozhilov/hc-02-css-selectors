@@ -1,0 +1,12 @@
+/* Change the root element's font-size to 20px and observe the change in the div element's font-size. */
+
+html {
+    /* Set font-size to 20px */
+    font-size: 20px;
+}
+
+.rem-size {
+    /* Set font-size to 2rem */
+    font-size: 2rem;
+    color: blue;
+}
