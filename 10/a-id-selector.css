@@ -1,0 +1,7 @@
+/* Style elements with unique IDs. */
+
+#unique-element {
+    color: blueviolet;
+    text-align: center;
+    font-weight: bold;
+}
