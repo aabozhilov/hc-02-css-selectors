@@ -1,0 +1,16 @@
+/* Set different display properties (block, inline, inline-block) for elements. */
+
+.block {
+    display: block;
+    border: solid 5px red;
+}
+
+.inline {
+    display: inline;
+    border: solid 5px green;
+}
+
+.inline-block {
+    display: inline-block;
+    border: solid 5px blue;
+}
