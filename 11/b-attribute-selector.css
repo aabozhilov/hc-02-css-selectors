@@ -1,0 +1,5 @@
+/* Change the text color of links with a specific href attribute. */
+
+a[href="https://example.com"] {
+    color: green;
+}
