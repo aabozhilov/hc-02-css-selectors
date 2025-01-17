@@ -1,0 +1,11 @@
+/* Use the universal selector to set a default margin and padding for all elements. */
+
+* {
+    margin: 10px 20px 30px 40px;
+    padding: 40px 30px 20px 10px;
+}
+
+header,div {
+    background-color: beige;
+    border: 5px solid black; 
+}
