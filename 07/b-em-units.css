@@ -1,0 +1,12 @@
+/* Change the parent div's font-size to 10px and observe the change in the child div's font-size. */
+
+.parent {
+    /* Set font-size to 10px */
+    font-size: 10px;
+}
+
+.child {
+    /* Set font-size to 1.5em */
+    font-size: 1.5em;
+    color: blue;
+}
