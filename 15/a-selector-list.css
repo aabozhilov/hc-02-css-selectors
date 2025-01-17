@@ -1,0 +1,6 @@
+/* Use a selector list to apply the same style to multiple elements. */
+
+h1, p, div {
+    color: green;
+    background-color: beige;
+}
