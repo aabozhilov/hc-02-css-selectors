@@ -1,0 +1,6 @@
+/* Style both paragraph and heading elements using a selector list. */
+
+h1, p {
+    color: blue;
+    background-color: beige;
+}
