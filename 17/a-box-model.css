@@ -1,0 +1,11 @@
+/* Use CSS to demonstrate the box model by setting margin, border, padding, and content area values. */
+
+.box {
+    /* margin, border, padding, and content area */
+    width: 200px;
+    height: 100px;
+    padding: 5px;
+    border: solid green 3px;
+    margin: 20px;
+    background-color: beige;
+}
