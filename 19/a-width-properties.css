@@ -1,0 +1,9 @@
+/* Set the width, min-width, and max-width of a div element. */
+
+.width-example {
+    /* Set width, min-width, and max-width */
+    width: 50%;
+    min-width: 500px;
+    max-width: 800px;
+    background-color: beige;
+}
