@@ -1,0 +1,7 @@
+/* Style nested elements using a descendant combinator. */
+
+div p {
+     background-color: beige;
+     color: green;
+     text-transform: capitalize;
+}
